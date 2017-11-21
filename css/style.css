@@ -39,7 +39,6 @@ h2 {
 
 p{
   margin: 0 0 20px 0;
-  color:#555
 }
 footer {
   font-size: .7em;
@@ -51,8 +50,17 @@ footer {
      text-decoration: none;
   }
 #title a:hover{
-  color: rgb(111,127,122);
+  color: #6E7E79;
   text-decoration: none;
+  }
+#title a:active{
+    color: #6E7E79;
+    text-decoration: none;
+  }
+  #title a:visited{
+       color: rgb(152,173,166);
+       text-decoration: none;
+    }
 
 #logo{
   border: 5px solid rgb(152,173,166);
