@@ -58,11 +58,11 @@ footer {
 #logo{
   border: 5px solid rgb(152,173,166);
 }
-.press img{
+.press a{
   border: 5px solid #cccccc;
   text-decoration: none;
 }
-.press img:hover {
+.press a:hover {
   border: 5px solid #6E7E79;
   text-decoration: none;
   cursor: auto;
