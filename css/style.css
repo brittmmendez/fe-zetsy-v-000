@@ -53,14 +53,7 @@ footer {
   color: #6E7E79;
   text-decoration: none;
   }
-#title a:active{
-    color: #6E7E79;
-    text-decoration: none;
-  }
-  #title a:visited{
-       color: rgb(152,173,166);
-       text-decoration: none;
-    }
+
 
 #logo{
   border: 5px solid rgb(152,173,166);
