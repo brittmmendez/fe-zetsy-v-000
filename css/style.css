@@ -72,7 +72,8 @@ footer {
   text-decoration: none;
 }
 #site a:hover{
-  color:#4B83BB;  
+  color:#4B83BB;
+  text-decoration: underline;;
 }
 
 /* Write all remaining styles here */
