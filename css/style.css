@@ -72,16 +72,7 @@ footer {
   text-decoration: none;
 }
 #site a:hover{
-  color:#4B83BB;
-  text-decoration: none;
-}
-.site a:active{
-  font:#4B83BB
-  text-decoration: none;
-}
-.site a:visited{
-  font:#4B83BB
-  text-decoration: none;
+  color:#4B83BB;  
 }
 
 /* Write all remaining styles here */
