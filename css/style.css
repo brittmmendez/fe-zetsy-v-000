@@ -45,7 +45,7 @@ footer {
   text-align: right;
 }
 
-#title a{
+#title a:link{
      color:rgb(152,173,166);
      text-decoration: none;
   }
