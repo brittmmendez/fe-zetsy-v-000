@@ -39,6 +39,7 @@ h2 {
 
 p{
   margin: 0 0 20px 0;
+  color: #555;
 }
 footer {
   font-size: .7em;
@@ -53,7 +54,6 @@ footer {
   color: #6E7E79;
   text-decoration: none;
   }
-
 
 #logo{
   border: 5px solid rgb(152,173,166);
