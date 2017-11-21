@@ -28,7 +28,9 @@ font-weight: normal;
 font-family: 'Baskerville', serif;
 border-bottom: 1px solid #ccc;
 }
-
+#copyright{
+  font-size: 1em
+}
 #title a:link{
      color:rgb(152,173,166);
      text-decoration: none;
