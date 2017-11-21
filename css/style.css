@@ -67,7 +67,9 @@ footer {
   text-decoration: none;
   cursor: auto;
 }
-
+.press{
+  margin-bottom: 20px;
+}
 #site a{
   color:#4B83BB;
   text-decoration: none;
