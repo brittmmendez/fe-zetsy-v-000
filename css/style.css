@@ -67,11 +67,11 @@ footer {
   text-decoration: none;
 }
 
-.site a{
+#site a{
   font:#4B83BB
   text-decoration: none;
 }
-.site a:hover{
+#site a:hover{
   font:#4B83BB
   text-decoration: none;
 }
