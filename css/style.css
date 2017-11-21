@@ -28,8 +28,9 @@ font-weight: normal;
 font-family: 'Baskerville', serif;
 border-bottom: 1px solid #ccc;
 }
-#copyright{
+footer {
   font-size: 1em;
+  text-align: right;
 }
 
 #title a:link{
